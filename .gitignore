@@ -1,0 +1,10 @@
+*~
+*-
+*bak
+*test
+*swp
+*old
+foo.*
+bar.*
+.DS_Store
+Thumbs.db
